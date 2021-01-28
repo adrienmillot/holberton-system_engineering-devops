@@ -26,4 +26,14 @@ chown betty hello
 # To create an empty file
 ```bash
 touch <filename>
+```
+
+# To change owner,group,user of a file,repository
+o: owner
+g: group
+u: user
+
+To give the execute right to owner to a filename
+```bash
+chmod o+x <filename>
 ``` 
