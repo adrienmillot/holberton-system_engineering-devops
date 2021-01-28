@@ -17,3 +17,8 @@ whoami
 ```bash
 groups
 ```
+
+# To change the owner of a file
+```bash
+chown betty hello
+```
