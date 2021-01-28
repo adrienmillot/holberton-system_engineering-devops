@@ -12,3 +12,8 @@ To know the current ID, you have to type:
 ```bash
 whoami
 ```
+
+# To know all the groups of your current ID
+```bash
+groups
+```
