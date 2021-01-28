@@ -6,3 +6,9 @@ To change your ID, on linux, means "change user", for that you shoud type below 
 ```bash
 su <new user ID>
 ```
+
+# To know current ID
+To know the current ID, you have to type:
+```bash
+whoami
+```
