@@ -22,3 +22,8 @@ groups
 ```bash
 chown betty hello
 ```
+
+# To create an empty file
+```bash
+touch <filename>
+``` 
