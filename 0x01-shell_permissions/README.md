@@ -37,3 +37,20 @@ To give the execute right to owner to a filename
 ```bash
 chmod o+x <filename>
 ``` 
+
+#  To change file rights
+To change file rights, you have two ways
+
+## First with number
+chmod 331 <filename>
+
+first number is for owner
+second is for group
+and the third is for user
+
+## Second with character
+chmod o=rx,g=rx,u=x
+
+w = write
+r = read
+x = execute
